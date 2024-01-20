@@ -44,4 +44,3 @@ Codificación del archivo index.js, el cual contiene la importación del servido
 ### Ejecución
 Ejecución del proyecto en la terminal de Visual Studio Code.
 ![image](https://github.com/Alejandro-Moreira/api-veterinaria/assets/117743484/0dc01472-0beb-4834-8af8-bd041068d7c8)
-# Laboratorio21_22_Web
